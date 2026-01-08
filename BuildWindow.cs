@@ -1,3 +1,5 @@
+////// This file should be in Assets/Editor 
+
 using UnityEditor;
 using UnityEngine;
 
@@ -24,3 +26,4 @@ public class BuildWindow : EditorWindow
         }
     }
 }
+
